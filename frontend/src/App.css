@@ -29,5 +29,8 @@
 
 #background{
   background-color: black;
-  background-image: url("./../assets/elbi.jpg")
+  background-image: url("./assets/elbi.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
